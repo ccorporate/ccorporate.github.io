@@ -1,42 +1,25 @@
 ---
 layout: post
-title: Introduction
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+Il blog di Ciaso è nato fortuitamente una sera di marzo, mentre discorrevamo della molteplicità degli interessi dei componenti di Ciaso. È sorta, dunque, nella nostra mente, questa bizzarra idea di creare un “blog poliedrico”, non incentrato su un unico argomento, ma che potesse spaziare attraverso tutti i nostri interessi, con l’intento non di insegnare in quanto non abbiamo competenze in merito, ma di trasmettere ai lettori il nostro amore e la nostra curiosità verso questi argomenti, offrendo anche punti di vista diversi da quelli convenzionali.
 
------
+Nel nostro blog potrete dunque viaggiare sulle ali della musica, tra note e spartiti, osservare il mondo circostante con gli occhi della chimica e della fisica, comprendere il linguaggio dietro a un sito web (anche il nostro!), e assaporare, anche solo leggendo, le nostre deliziose ricette, che potrete replicare a casa! Cosa aspettate a leggerci? Benvenuti nel nostro blog!
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
+### Francesco Matelini
+Innanzitutto, il Maestro, il cervello di Ciaso. È lui la mente, un ragazzo riflessivo e allo stesso tempo acuto, oltre ad essere un ottimo musicista, degno delle migliori note mai composte.
 
-This demo site was last updated {{ site.time | date: "%B %d, %Y" }}.
+### Simone Frassinelli
+Abbiamo, poi, un ragazzo dai capelli rossi e dai più svariati soprannomi. Tra questi troviamo Signor rossi capelli frasineli, Red Bull, Florist e molti altri che non staremo qui ad elencare. Lui è il genio dell’informatica, della matematica e degli algoritmi.
 
-There are currently two themes built on Poole:
+### Leonardo Orietti Del Duca
+Visitando la Ciaso Tower, potrete avere la possibilità di incontrare Orietti, lo riconoscerete facilmente: sarà sicuramente immerso tra gli spartiti a suonare la tromba, in cucina a sperimentare e perfezionare nuove ricette, oppure davanti allo schermo del computer a programmare.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Riccardo Fusco
+Nel gruppo abbiamo anche un grande chimico teorico, atomi e molecole non hanno segreti per lui. Appassionato non solo di chimica, ma anche di fisica, musica e informatica, ponetegli un quesito e avrà una risposta per i vostri dubbi.
 
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
+### Silvia Marchi
+Ancora, l’unica ragazza del gruppo, Silvia. Una ragazza molto appassionata di letteratura e poesia; con lei anche la miglior lugubrazione espressa nel peggiore dei modi riacquista significato. Adora anche la chimica ed è la base coniugata dell’acido Riccardo.
 
-## What's included
-
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404]({{ '404.html' | relative_url }}), [RSS feed]({{ 'atom.xml' | relative_url }}), posts, [archive page]({{ 'archive' | relative_url }}), and [example page]({{ 'about' | relative_url }}))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Jekyll's built-in support for Rouge
-
-Additional features are available in individual themes.
-
-## Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), Firefox, and Edge.
-
-## Download
-
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
-
-Thanks!
+### Leonardo Fiore
+Per ultimo e per importanza, Foire il nostro ingegnere. La leggenda narra che sia sempre in compagnia del suo cane Martino a mangiare pasta e amido e a difendere la sua patria, ma noi non lo sappiamo: per adesso lo abbiamo visto solo a fumarsi il cervello su un libro di analisi.

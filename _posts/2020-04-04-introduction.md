@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Silvia Marchi
 ---
 
 Il blog di Ciaso è nato fortuitamente una sera di marzo, mentre discorrevamo della molteplicità degli interessi dei componenti di Ciaso. È sorta, dunque, nella nostra mente, questa bizzarra idea di creare un “blog poliedrico”, non incentrato su un unico argomento, ma che potesse spaziare attraverso tutti i nostri interessi, con l’intento non di insegnare in quanto non abbiamo competenze in merito, ma di trasmettere ai lettori il nostro amore e la nostra curiosità verso questi argomenti, offrendo anche punti di vista diversi da quelli convenzionali.

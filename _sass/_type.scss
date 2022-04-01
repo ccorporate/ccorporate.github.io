@@ -90,6 +90,15 @@ blockquote {
   }
 }
 
+blockquote>cite::before {
+  content: "—";
+}
+
+blockquote>cite {
+  display: block;
+  text-align: right;
+}
+
 figure {
   margin: 0;
 }

@@ -4,12 +4,12 @@ layout: page
 
 ### Federico Putamorsi
 Computer, Electronic and Telecommunication Engineering at UniPr<br>
-<strong>Email: </strong>f.putamorsi@libero.it<br>
+<strong>Email: </strong>leonardofiore7901@gmail.com<br>
 <strong>GitHub: </strong>[leonardo7901](https://github.com/leonardo7901)
 
 ### Federico Putamorsi
 Computer, Electronic and Telecommunication Engineering at UniPr<br>
-<strong>Email: </strong>leonardofiore7901@gmail.com<br>
+<strong>Email: </strong>f.putamorsi@libero.it<br>
 <strong>GitHub: </strong>[refedico](https://github.com/refedico)
 
 ### Simone Frassinelli

@@ -2,7 +2,7 @@
 title: Ciaso
 tagline: Il blog di Ciaso
 url: https://ccorporate.github.io
-paginate: 1
+paginate: 10
 baseurl: ""
 permalink: pretty
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Leonardo Orietti Del Duca
+author: Leonardo Orietti Del Duca
 ---
 
 <div class="posts">
     {% for post in paginator.posts %}
-    {% if post.author == "Leonardo Orietti Del Duca" %}
+    {% if post.author == page.author %}
 
     <article class="post">
         <h1 class="post-title">
